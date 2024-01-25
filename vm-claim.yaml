@@ -1,0 +1,5 @@
+kind: VirtualMachine
+metadata:
+  name: my-vm-demo-25th-jan
+spec: 
+  location: "US"
